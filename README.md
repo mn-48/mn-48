@@ -25,7 +25,7 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 
 ##
-## :wrench: TECHNOLOGIES
+## :wrench: SKILLS & TECHNOLOGIES
 
  ###### :radio_button: ❖ Backend:
    * Python
@@ -36,73 +36,41 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
    * AWS
    * Kubernetes
  ###### :radio_button: ❖ Frontend:
-  ● HTML, CSS
-  ● Bootstarp
-  ● JQuery
-  ● JavaScript
-  ● React
+  * HTML, CSS
+  * Bootstarp
+  * JQuery
+  * JavaScript
+  * React
  ###### :radio_button: ❖ Database :
-  Relational:
-    ● PostGreSQL
-    ● SQL
-    ● SqLite
-    ● MySQL
-  Non Relational:
-    ● MongoDB
-❖ DevOps Tool:
-● Git
-● GitHub
-● BitBucke
-● Jira
-● Trello
-❖ Process Automation:
-● Selenium with
-python
-● BeautifulSoup4
-● Scrapy
-❖ Testing:
-● Pytest
-● UnitTest
-❖ Machine Learning Tools:
-● Pandas, Numpy
-● Seaborn,
-Matplotlib
-● TensorFlow
-● Scikit-learn
-● Keras, Pytorch
-❖ Software Design:
-● MVC and MVT
-Pattern
+  **Relational:**
+    * PostGreSQL
+    * SQL
+    * SqLite
+    * MySQL
+  **Non Relational:**
+    * MongoDB
+ ###### :radio_button: ❖ DevOps Tool:
+  * Git
+  * GitHub
+  * BitBucke
+  * Jira
+  * Trello
+ ###### :radio_button: ❖ Process Automation:
+  * Selenium with python
+  * BeautifulSoup4
+  * Scrapy
+ ###### :radio_button: ❖ Testing:
+  * Pytest
+  * UnitTest
+ ###### :radio_button: ❖ Machine Learning Tools:
+  ● Pandas ●  Numpy
+  ● Seaborn ● Matplotlib
+  ● TensorFlow
+  ● Scikit-learn
+  ● Keras ● Pytorch
+ ###### :radio_button: ❖ Software Design:
+  * MVC and MVT Pattern
 
-  ###### :radio_button: FRONTEND
-  
-    * HTML 
-    * CSS: SASS,BEM
-    * CSS FRAMEWORK: BOOTSTRAP,TAILWIND CSS
-    * LANGUAGE: JAVASCRIPT,TYPESCRIPT
-    * FRAMEWORK: REACT JS, VUE JS, NEXT JS
-    * COMPONENT LIBRARY: REACT-BOOTSTRAP, METARIAL UI
-    * STATE MANAGEMENT LIBRARY: REDUX, REACT-REDUX, REDUX-TOOLKIT
-    * GRAPHQL: APOLLO-CLIENT
-    
-
-  ###### :radio_button: BACKEND
-  
-    * LANGUAGE: JAVASCRIPT, TYPESCRIPT
-    * FRAMEWORK: NODE JS, EXPRESS JS
-    * DATABASE: MONGODB, MYSQL 
-    * TYPE: REST API, GRAPHQL
-    
-    
-  ###### :radio_button: MOBILE APPLICATION
-  
-    * REACT NATIVE
-    
-    
-  ###### :radio_button: TOOLS
-  
-    * GIT & GITHUB
-    * FIGMA 
     
     
 ## :briefcase: WORK EXPERIENCE
