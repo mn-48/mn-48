@@ -42,12 +42,12 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
   * JavaScript
   * React
  ###### :radio_button: ❖ Database :
-  **Relational:**
+  * Relational:
     * PostGreSQL
     * SQL
     * SqLite
     * MySQL
-  **Non Relational:**
+  * Non Relational:
     * MongoDB
  ###### :radio_button: ❖ DevOps Tool:
   * Git
