@@ -27,28 +27,28 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 ##
 ## :wrench: TECHNOLOGIES
 
- ###### :radio_button: FRONTEND ❖ Backend:
-  * ● Python
-  * ● Django
-  * ● GraphQL
-  * ● Rest Framework
-  * ● Docker
-  * ● AWS
-  * ● Kubernetes
-❖ Frontend:
-● HTML, CSS
-● Bootstarp
-● JQuery
-● JavaScript
-● React
-❖ Database :
-Relational:
-● PostGreSQL
-● SQL
-● SqLite
-● MySQL
-Non Relational:
-● MongoDB
+ ###### :radio_button: ❖ Backend:
+   ● Python
+   ● Django
+   ● GraphQL
+   ● Rest Framework
+   ● Docker
+   ● AWS
+   ● Kubernetes
+ ###### :radio_button: ❖ Frontend:
+  ● HTML, CSS
+  ● Bootstarp
+  ● JQuery
+  ● JavaScript
+  ● React
+ ###### :radio_button: ❖ Database :
+  Relational:
+    ● PostGreSQL
+    ● SQL
+    ● SqLite
+    ● MySQL
+  Non Relational:
+    ● MongoDB
 ❖ DevOps Tool:
 ● Git
 ● GitHub
