@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/30841411?s=40&v=4" alt="Profile view" height="28" width="110">
+  <img src="https://gpvc.arturio.dev/MdNazmul9" alt="Profile view" height="28" width="110">
   <a id="linkedn-link" target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20-%234D1A7F" alt="Portfolio" height="28" width="110"></a>
 </p>
 
