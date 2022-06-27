@@ -9,7 +9,7 @@
 
 <p align="center">
 <a id="linkedn-link" href="https://www.linkedin.com/in/md-nazmul-hossain-281079116/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a id="facebook-link" href="https://www.facebook.com/mohimenol.munna" target="_blank"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
+  <a id="facebook-link" href="https://www.facebook.com/MdNazmulHossain48/" target="_blank"><img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'></a>
   <a id="twitter-link" href="https://twitter.com/MohimenolMunna" target="_blank"><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter'></a>
 </p>
 
