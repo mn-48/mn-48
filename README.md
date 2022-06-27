@@ -27,6 +27,53 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 ##
 ## :wrench: TECHNOLOGIES
 
+ ###### :radio_button: FRONTEND ❖ Backend:
+  * ● Python
+  * ● Django
+  * ● GraphQL
+  * ● Rest Framework
+  * ● Docker
+  * ● AWS
+  * ● Kubernetes
+❖ Frontend:
+● HTML, CSS
+● Bootstarp
+● JQuery
+● JavaScript
+● React
+❖ Database :
+Relational:
+● PostGreSQL
+● SQL
+● SqLite
+● MySQL
+Non Relational:
+● MongoDB
+❖ DevOps Tool:
+● Git
+● GitHub
+● BitBucke
+● Jira
+● Trello
+❖ Process Automation:
+● Selenium with
+python
+● BeautifulSoup4
+● Scrapy
+❖ Testing:
+● Pytest
+● UnitTest
+❖ Machine Learning Tools:
+● Pandas, Numpy
+● Seaborn,
+Matplotlib
+● TensorFlow
+● Scikit-learn
+● Keras, Pytorch
+❖ Software Design:
+● MVC and MVT
+Pattern
+
   ###### :radio_button: FRONTEND
   
     * HTML 
