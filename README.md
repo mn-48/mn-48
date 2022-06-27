@@ -18,7 +18,11 @@
 
 ## HEY THERE, :wave: 
 
-This is <b>Md Md. Nazmul Hossain</b> from Bangladesh 🇧🇩. I am a full stack web developer (python-django). I have completed Computer Science & Engineering from [`Pabna University of Science & Technology`](https://www.pust.ac.bd/). I have an experience on different branches of computer science & engineering. I have been working professionally as a backend developer (python, django, graphql, rest-api, AWS, docker ) since 2019. Also i have skills on html-css, bootstrap, javascript, react etc.</br>
+This is <b>
+ Md. Nazmul Hossain</b> from Bangladesh 🇧🇩. I am a full stack python developer. Recently I am working at ‘Ehsan Software’ as a Senior Backend Engineer. I have 3+ years of professional backend web developmen experience and developing in Python. Familiarity with frameworks in Django, React. GraphQL, Docker, AWS, CD/CLI. Experience in development usingPostgresSQL and a relational database, no relational database as MongoDB etc. Familiarity with Linux/Unix. Python full stack development is my PASSION! I enjoy helping companies to craft beautiful software and websites. I have very good experience in unit and integration testing. To achieve a dynamic and bright career in a professional organization where I can use and enhance my skills, creativity and learning experiences to craft beautiful software that solve people’s problems and specialize in software, web and mobile application development that has business value and want to contribute to the welfare of the institution.</br>
+
+I have completed Computer Science & Engineering from [`Pabna University of Science & Technology`](https://www.pust.ac.bd/). I have an experience on different branches of computer science & engineering. I have been working professionally as a backend developer (python, django, graphql, rest-api, AWS, docker ) since 2019. Also I have skills on html-css, bootstrap, javascript, react etc.</br>
+
 
 ##
 ## :wrench: TECHNOLOGIES
