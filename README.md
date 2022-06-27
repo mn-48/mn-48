@@ -28,13 +28,13 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 ## :wrench: TECHNOLOGIES
 
  ###### :radio_button: ❖ Backend:
-  > ● Python
-  > ● Django
-  > ● GraphQL
-  > ● Rest Framework
-  > ● Docker
-  > ● AWS
-  > ● Kubernetes
+   * Python
+   * Django
+   * GraphQL
+   * Rest Framework
+   * Docker
+   * AWS
+   * Kubernetes
  ###### :radio_button: ❖ Frontend:
   ● HTML, CSS
   ● Bootstarp
