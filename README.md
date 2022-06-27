@@ -116,8 +116,6 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 ## :white_flower: STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username==MdNazmul9&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user==MdNazmul9&theme=dark&background=000000" width="49%"/> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=MdNazmul9&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdNazmul9&theme=dark&background=000000" width="49%"/>
 </p>
-
