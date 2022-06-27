@@ -104,7 +104,8 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 ## :trophy: ACTIVITY 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MdNazmul9&count_private=true&theme=algolia&column=8&margin-w=30)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=MdNazmul9&count_private=true&theme=algolia&column=8&margin-w=30) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MdNazmul9&show_icons=true&theme=radical)
 
 
 
@@ -117,6 +118,7 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username==MdNazmul9&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user==MdNazmul9&theme=dark&background=000000" width="49%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user==MdNazmul9&theme=dark&background=000000" width="49%"/> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </p>
 
