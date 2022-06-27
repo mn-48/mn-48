@@ -109,7 +109,7 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 ## :bar_chart: CONTRIBUTION 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username==MdNazmul9&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MdNazmul9&theme=dark)](https://git.io/streak-stats)
 
 
 ## :white_flower: STATS
