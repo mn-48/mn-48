@@ -63,11 +63,14 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
   * Pytest
   * UnitTest
  ###### :radio_button: ❖ Machine Learning Tools:
-  ● Pandas ●  Numpy
-  ● Seaborn ● Matplotlib
-  ● TensorFlow
-  ● Scikit-learn
-  ● Keras ● Pytorch
+  * Pandas 
+  *   Numpy
+  * Seaborn 
+  *  Matplotlib
+  * TensorFlow
+  * Scikit-learn
+  * Keras 
+  *  Pytorch
  ###### :radio_button: ❖ Software Design:
   * MVC and MVT Pattern
 
@@ -78,8 +81,8 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
   ###### :running: CURRENTLY WORKING
   
     * COMPANY NAME: EHSAN SOFTWARE LTD, BOGRA, BANGLADESH 🇧🇩
-    * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS)
-    * JOB START: 3RD AUGUEST 2021
+    * POSITION: BACKEND Engineer (python, django, graphql, aws, docker, kubernetes)
+    * JOB START:  November 2020
     
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
    
@@ -94,25 +97,25 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 ###### 🔗 SOCIAL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/md-nazmul-hossain-281079116/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/MdNazmulHossain48/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>]([https://www.facebook.com/mohimenol.munna](https://twitter.com/NazmulH16966131)) 
 
 
 ## :trophy: ACTIVITY 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna&count_private=true&theme=algolia&column=8&margin-w=30)
+![trophy](https://github-profile-trophy.vercel.app/?username=MdNazmul9&count_private=true&theme=algolia&column=8&margin-w=30)
 
 
 ## :bar_chart: CONTRIBUTION 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohimenol-Islam-Munna&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username==MdNazmul9&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
 
 
 ## :white_flower: STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username==MdNazmul9&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user==MdNazmul9&theme=dark&background=000000" width="49%"/>
 </p>
 
