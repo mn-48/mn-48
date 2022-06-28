@@ -104,7 +104,7 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
 
 ## :trophy: ACTIVITY 
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=MdNazmul9&count_private=true&theme=algolia&column=7&margin-w=30)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=MdNazmul9&count_private=true&theme=algolia&column=7&margin-w=35)
 
 
 ## :bar_chart: CONTRIBUTION 
