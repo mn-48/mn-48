@@ -33,6 +33,7 @@ I have completed Computer Science & Engineering from [`Pabna University of Scien
    * Rest Framework
    * Docker
    * AWS
+   * Jenkins
    * Kubernetes
  ###### :radio_button: ❖ Frontend:
   * HTML, CSS
