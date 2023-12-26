@@ -2,7 +2,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/60900771/174942929-c00baf97-6031-4dab-8dfb-2483de87b1d5.png" width="250" height="200"/></p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/nazmul-cse48" alt="Profile view" height="28" width="110">
+  <img src="https://gpvc.arturio.dev/mn-48" alt="Profile view" height="28" width="110">
   <a id="linkedn-link" target="_blank" href="#"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%97%20-%234D1A7F" alt="Portfolio" height="28" width="110"></a>
 </p>
 
